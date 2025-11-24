@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Portfolio.Models.ApplicationDbContexts">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAQAAACAAAAAAAAAAAAAAAAAgAAAAQQA=</HashCode>
+      <FileName>Models\ApplicationDbContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Education">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAAAAAQAAQAAAAAAwAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Models\Education.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Portfolio.Models.Experience">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAAAgAQAgAAAAAAAgAAAAAAAAAAAABEAAAAA=</HashCode>
+      <FileName>Models\Experience.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projects">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACQAAAAAAgAUAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Models\Projects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Skills">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAAAAAQAAAAAAAAQAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Skills.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SocialLinks">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAAAAAQAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Models\SocialLinks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentProfile">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EACCAAAAACAAAMAAACIAAAAAAAAAAAAAAAAgIAAAUQA=</HashCode>
+      <FileName>Models\StudentProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
