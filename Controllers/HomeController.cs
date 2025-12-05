@@ -1,0 +1,28 @@
+﻿using System.Net;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web.Mvc;
+using Portfolio.Models;
+
+namespace Portfolio.Controllers
+{
+    public class HomeController : Controller
+    {
+        public ActionResult Index()
+        {
+            return View();
+        }
+
+        public ActionResult About()
+        {
+            ViewBag.Message = "Pagina para mi portafolio personal y profesional.";
+            return View();
+        }
+
+        public ActionResult Contact()
+        {
+            ViewBag.Message = "Your contact page.";
+            return View();
+        }
+    }
+}
