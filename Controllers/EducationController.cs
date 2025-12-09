@@ -13,7 +13,7 @@ namespace Portfolio.Controllers
 
         public ActionResult Index()
         {
-            var list = db.Education.Include("SudentProfile").ToList();
+            var list = db.Education.Include("StudentProfile").ToList();
             return View(list);
         }
 

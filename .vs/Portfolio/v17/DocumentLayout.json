@@ -1,7 +1,72 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Portfolio\\Portfolio\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|c:\\portfolio\\portfolio\\controllers\\educationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|solutionrelative:controllers\\educationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|C:\\Portfolio\\Portfolio\\views\\sociallinks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|solutionrelative:views\\sociallinks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|C:\\Portfolio\\Portfolio\\views\\sociallinks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|solutionrelative:views\\sociallinks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|C:\\Portfolio\\Portfolio\\views\\sociallinks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|solutionrelative:views\\sociallinks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|C:\\Portfolio\\Portfolio\\views\\sociallinks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|solutionrelative:views\\sociallinks\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|C:\\Portfolio\\Portfolio\\views\\sociallinks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|solutionrelative:views\\sociallinks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|C:\\Portfolio\\Portfolio\\controllers\\sociallinkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|solutionrelative:controllers\\sociallinkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|C:\\Portfolio\\Portfolio\\models\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|solutionrelative:models\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|C:\\Portfolio\\Portfolio\\models\\sociallinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|solutionrelative:models\\sociallinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|C:\\Portfolio\\Portfolio\\models\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|solutionrelative:models\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|C:\\Portfolio\\Portfolio\\models\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|solutionrelative:models\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|C:\\Portfolio\\Portfolio\\models\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|solutionrelative:models\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|C:\\Portfolio\\Portfolio\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|C:\\Portfolio\\Portfolio\\migrations\\202512061709321_initialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|solutionrelative:migrations\\202512061709321_initialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|C:\\Portfolio\\Portfolio\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|C:\\Portfolio\\Portfolio\\obj\\release\\.netframework,version=v4.8.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1A710F-21EB-4245-8FDB-4EF85601A307}|Portfolio.csproj|solutionrelative:obj\\release\\.netframework,version=v4.8.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +74,204 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Portfolio\\Portfolio\\Views\\SocialLinks\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\SocialLinks\\Index.cshtml",
+              "ToolTip": "C:\\Portfolio\\Portfolio\\Views\\SocialLinks\\Index.cshtml",
+              "RelativeToolTip": "Views\\SocialLinks\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T06:03:21.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Portfolio\\Portfolio\\Views\\SocialLinks\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\SocialLinks\\Edit.cshtml",
+              "ToolTip": "C:\\Portfolio\\Portfolio\\Views\\SocialLinks\\Edit.cshtml",
+              "RelativeToolTip": "Views\\SocialLinks\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T06:03:17.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Portfolio\\Portfolio\\Views\\SocialLinks\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\SocialLinks\\Details.cshtml",
+              "ToolTip": "C:\\Portfolio\\Portfolio\\Views\\SocialLinks\\Details.cshtml",
+              "RelativeToolTip": "Views\\SocialLinks\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T06:03:13.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Portfolio\\Portfolio\\Views\\SocialLinks\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\SocialLinks\\Create.cshtml",
+              "ToolTip": "C:\\Portfolio\\Portfolio\\Views\\SocialLinks\\Create.cshtml",
+              "RelativeToolTip": "Views\\SocialLinks\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T06:02:12.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SocialLinksController.cs",
+              "DocumentMoniker": "C:\\Portfolio\\Portfolio\\Controllers\\SocialLinksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SocialLinksController.cs",
+              "ToolTip": "C:\\Portfolio\\Portfolio\\Controllers\\SocialLinksController.cs",
+              "RelativeToolTip": "Controllers\\SocialLinksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T05:57:15.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentProfile.cs",
+              "DocumentMoniker": "C:\\Portfolio\\Portfolio\\Models\\StudentProfile.cs",
+              "RelativeDocumentMoniker": "Models\\StudentProfile.cs",
+              "ToolTip": "C:\\Portfolio\\Portfolio\\Models\\StudentProfile.cs",
+              "RelativeToolTip": "Models\\StudentProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T17:20:25.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EducationController.cs",
+              "DocumentMoniker": "C:\\Portfolio\\Portfolio\\Controllers\\EducationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EducationController.cs",
+              "ToolTip": "C:\\Portfolio\\Portfolio\\Controllers\\EducationController.cs",
+              "RelativeToolTip": "Controllers\\EducationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T17:04:29.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Portfolio\\Portfolio\\Views\\SocialLinks\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\SocialLinks\\Delete.cshtml",
+              "ToolTip": "C:\\Portfolio\\Portfolio\\Views\\SocialLinks\\Delete.cshtml",
+              "RelativeToolTip": "Views\\SocialLinks\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T06:03:07.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SocialLinks.cs",
+              "DocumentMoniker": "C:\\Portfolio\\Portfolio\\Models\\SocialLinks.cs",
+              "RelativeDocumentMoniker": "Models\\SocialLinks.cs",
+              "ToolTip": "C:\\Portfolio\\Portfolio\\Models\\SocialLinks.cs",
+              "RelativeToolTip": "Models\\SocialLinks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T17:19:38.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Skills.cs",
+              "DocumentMoniker": "C:\\Portfolio\\Portfolio\\Models\\Skills.cs",
+              "RelativeDocumentMoniker": "Models\\Skills.cs",
+              "ToolTip": "C:\\Portfolio\\Portfolio\\Models\\Skills.cs",
+              "RelativeToolTip": "Models\\Skills.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T17:19:02.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Projects.cs",
+              "DocumentMoniker": "C:\\Portfolio\\Portfolio\\Models\\Projects.cs",
+              "RelativeDocumentMoniker": "Models\\Projects.cs",
+              "ToolTip": "C:\\Portfolio\\Portfolio\\Models\\Projects.cs",
+              "RelativeToolTip": "Models\\Projects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T17:18:10.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Portfolio\\Portfolio\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Portfolio\\Portfolio\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T17:16:28.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Education.cs",
+              "DocumentMoniker": "C:\\Portfolio\\Portfolio\\Models\\Education.cs",
+              "RelativeDocumentMoniker": "Models\\Education.cs",
+              "ToolTip": "C:\\Portfolio\\Portfolio\\Models\\Education.cs",
+              "RelativeToolTip": "Models\\Education.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T17:14:23.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "202512061709321_InitialCreate2.cs",
+              "DocumentMoniker": "C:\\Portfolio\\Portfolio\\Migrations\\202512061709321_InitialCreate2.cs",
+              "RelativeDocumentMoniker": "Migrations\\202512061709321_InitialCreate2.cs",
+              "ToolTip": "C:\\Portfolio\\Portfolio\\Migrations\\202512061709321_InitialCreate2.cs",
+              "RelativeToolTip": "Migrations\\202512061709321_InitialCreate2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T17:09:37.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Portfolio\\Portfolio\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Portfolio\\Portfolio\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T17:07:15.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": ".NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Portfolio\\Portfolio\\obj\\Release\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "obj\\Release\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Portfolio\\Portfolio\\obj\\Release\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "RelativeToolTip": "obj\\Release\\.NETFramework,Version=v4.8.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T03:10:21.067Z"
             }
           ]
         }

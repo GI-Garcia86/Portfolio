@@ -12,7 +12,7 @@ namespace Portfolio.Controllers
 
         public ActionResult Index()
         {
-            var list = db.SocialLinks.Include("SutdentProfile").ToList();
+            var list = db.SocialLinks.Include("StudentProfile").ToList();
             return View(list);
         }
 
