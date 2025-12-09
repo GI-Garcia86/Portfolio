@@ -3,3 +3,10 @@
 ################################################################################
 
 /Portfolio/.vs/Portfolio
+
+# 1. Ignorar la carpeta de metadatos de Visual Studio (la que da el error)
+.vs/
+
+# 2. Ignorar carpetas de archivos compilados, temporales y cache
+[Bb]in/
+[Oo]bj/
