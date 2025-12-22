@@ -141,10 +141,6 @@
     <Compile Include="Migrations\202511151813172_InitialCreate.Designer.cs">
       <DependentUpon>202511151813172_InitialCreate.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202511151816570_InitialCreate1.cs" />
-    <Compile Include="Migrations\202511151816570_InitialCreate1.Designer.cs">
-      <DependentUpon>202511151816570_InitialCreate1.cs</DependentUpon>
-    </Compile>
     <Compile Include="Migrations\202512061709321_InitialCreate2.cs" />
     <Compile Include="Migrations\202512061709321_InitialCreate2.Designer.cs">
       <DependentUpon>202512061709321_InitialCreate2.cs</DependentUpon>
@@ -578,9 +574,6 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202511151813172_InitialCreate.resx">
       <DependentUpon>202511151813172_InitialCreate.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202511151816570_InitialCreate1.resx">
-      <DependentUpon>202511151816570_InitialCreate1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202512061709321_InitialCreate2.resx">
       <DependentUpon>202512061709321_InitialCreate2.cs</DependentUpon>

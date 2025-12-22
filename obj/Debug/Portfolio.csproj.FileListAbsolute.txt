@@ -63,7 +63,6 @@ C:\Portfolio\Portfolio\bin\Antlr3.Runtime.pdb
 C:\Portfolio\Portfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Portfolio\Portfolio\obj\Debug\Portfolio.csproj.AssemblyReference.cache
 C:\Portfolio\Portfolio\obj\Debug\Portfolio.Migrations.InitialCreate.resources
-C:\Portfolio\Portfolio\obj\Debug\Portfolio.Migrations.InitialCreate1.resources
 C:\Portfolio\Portfolio\obj\Debug\Portfolio.csproj.GenerateResource.cache
 C:\Portfolio\Portfolio\obj\Debug\Portfolio.csproj.CoreCompileInputs.cache
 C:\Portfolio\Portfolio\obj\Debug\Portfolio.csproj.Up2Date
